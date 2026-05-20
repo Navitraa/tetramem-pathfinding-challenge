@@ -1,4 +1,4 @@
-# tetramem-pathfinding-challenge
+# pathfinding-challenge
 
 Lightweight utilities to find and visualize pixel-wise paths that travel only on black pixels in raster images.
 
